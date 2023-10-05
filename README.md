@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnilraut3
-- 👀 I’m interested in Big Data
-- 🌱 I’m currently learning Big Data
+- 👀 I’m a Big Data Engineer
+- 🌱 I’m love learning new tech in Big Data
 - 💞️ I’m looking to collaborate on PySpark
 - 📫 How to reach me <a href="https://in.linkedin.com/in/swapnil-raut-a49a231b8">LinkedIn</a>
               
